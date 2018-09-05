@@ -3,7 +3,7 @@ import com.teamLaunch.model.SongBook;
 
 
 public class Karaoke {
-//	*****************asi debe estar formateada la estructura de la canción**************
+//	*****************asi debe estar formateada la estructura de la canción **************
 //		public Song( String artist, String title, String videoUrl){
 //		mArtist = artist;
 //		mTitle = title;
